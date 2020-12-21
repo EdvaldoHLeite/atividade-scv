@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Edvaldo Heliodorio</td>
+    <td>Garanhuns</td>
+  </tr>
 </table>
